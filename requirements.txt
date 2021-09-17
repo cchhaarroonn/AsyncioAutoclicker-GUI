@@ -1,0 +1,5 @@
+pyglet
+keyboard
+pyautogui
+pyttsx3
+pyarmor
