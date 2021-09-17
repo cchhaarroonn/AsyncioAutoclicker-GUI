@@ -4,6 +4,8 @@
 <h4>It is created for simple use it is not some complex autoclicker!</h4>
 <br>
 <h2>Do not forget to install requirements by using this command:</h2>
-<p>pip install -r requirements.txt</p>
+```
+pip install -r requirements.txt
+```
 <br>
 <h3>I hope you will enjoy using it 😄</h3>
