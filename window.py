@@ -1,5 +1,4 @@
 from tkinter import *
-from time import sleep
 import threading, pyglet, keyboard, pyautogui, pyttsx3
 
 engine = pyttsx3.init()
